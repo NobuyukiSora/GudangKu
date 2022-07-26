@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085728746909",
+    "project_id": "mcs-lab",
+    "storage_bucket": "mcs-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085728746909:android:e67cf255bec2f72eecd374",
+        "android_client_info": {
+          "package_name": "com.example.mcs_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085728746909-vjpuk6qgt41lgdiail5fm8ja6gcc93si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmaJRahcgC-dacNCtaRVW52B_0P4Ts7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085728746909-vjpuk6qgt41lgdiail5fm8ja6gcc93si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
